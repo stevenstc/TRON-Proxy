@@ -1,3 +1,3 @@
-# TRON-Proxy
+# TRON-Proxy-http-https
 
 [heroku.com](https://heroku.com)
